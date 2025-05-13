@@ -1,10 +1,10 @@
-# Human Resource Management System 💼
+# 💼 Human Resource Management System 
 
 This is a simple Human Resource Management System designed to manage employee data, attendance, leave, payroll, and performance.
 
 ---
 
-## Features 🚀
+## 🚀 Features 
 
 - **Secure User Authentication**: Employees and Admins can create accounts and log in securely to access their respective dashboards.
 - **Attendance Tracking**: Employees can mark their daily attendance with the current date to maintain accurate presence records.
@@ -14,7 +14,7 @@ This is a simple Human Resource Management System designed to manage employee da
 
 ---
 
-## Technologies Used 🛠️
+## 🛠️ Technologies Used 
 
 - **HTML**
 - **CSS**
@@ -24,7 +24,7 @@ This is a simple Human Resource Management System designed to manage employee da
 
 ---
 
-## Team Members 👥
+## 👥 Team Members 
 
 - **[Ojashwi Shrestha](https://github.com/OjashwiStha)**
 - **[Rose Dangol](https://github.com/rose-dangol)**
