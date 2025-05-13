@@ -21,6 +21,7 @@ This is a simple Human Resource Management System designed to manage employee da
 - **JavaScript**
 - **PHP**
 - **XAMPP**
+- **MySQL**
 
 ---
 
