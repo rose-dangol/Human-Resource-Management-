@@ -1,3 +1,4 @@
+--Tables Used--
 Table users {
   id int [pk]
   username varchar
